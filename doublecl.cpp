@@ -2,9 +2,7 @@
 //used a friend function to calcuate the total score and marks  
 #include <iostream>
 using namespace std;
-
 class Sports;
-
 class Student
 {
 private:
