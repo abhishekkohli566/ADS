@@ -16,7 +16,8 @@ public:
             minutes = m;
         }
     }
-        void display() const {
+       
+    void display() const {
         cout << "Time: " 
              << setw(2) << setfill('0') << hours << ":" 
              << setw(2) << setfill('0') << minutes << "\n";
