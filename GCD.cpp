@@ -1,5 +1,5 @@
 //finding  for gcd of two number using recursion
-// program to reverse the given nubmer using recursion
+
 #include <iostream>
 using namespace std;
 
